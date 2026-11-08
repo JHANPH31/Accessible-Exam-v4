@@ -1,6 +1,6 @@
 {
   "name": "Accessible Exam",
-  "short_name": "Exam",
+  "short_name": "Examora",
   "description": "Accessible exam app with voice, gesture, and keyboard support",
   "start_url": ".",
   "display": "standalone",
